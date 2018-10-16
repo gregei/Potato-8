@@ -20,7 +20,7 @@ The optional scale parameter is used to scale the window size by a positive inte
 
 # Keyboard
 
-The original Chip-8 keyboard layout is defined as hexadecimal keypad :
+The original Chip-8 keyboard layout is defined as hexadecimal keypad mapped to the keyboard as below:
 
 |   |   |   |   |
 |---|---|---|---|
@@ -48,3 +48,10 @@ The original Chip-8 keyboard layout is defined as hexadecimal keypad :
 | 0        | X        |
 | B        | C        |
 | F        | V        |
+
+# Screenshots
+
+![Potato-8 running](docs/images/screenshot1.jpg)
+![Potato-8 running](docs/images/screenshot2.jpg)
+![Potato-8 running](docs/images/screenshot3.jpg)
+![Potato-8 running](docs/images/screenshot4.jpg)
