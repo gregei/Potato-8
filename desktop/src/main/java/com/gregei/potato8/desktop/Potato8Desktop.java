@@ -55,7 +55,6 @@ public class Potato8Desktop {
         mainView.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         mainView.getContentPane().setFocusable(true);
         mainView.getContentPane().requestFocusInWindow();
-        mainView.setResizable(false);
 
         mainView.getContentPane().addKeyListener(new KeyListener() {
             @Override
@@ -299,6 +298,7 @@ public class Potato8Desktop {
         if (scale == 0 || scale < 0){
             scale = 10;
         }
+
         Potato8Desktop desktop = new Potato8Desktop();
         desktop.romPath = args[0];
 
