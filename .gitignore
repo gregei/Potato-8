@@ -32,4 +32,4 @@ core/build/
 core/out/
 desktop/build/
 desktop/out/
-assets
+/assets/
