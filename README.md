@@ -22,7 +22,7 @@ The optional scale parameter is used to scale the window size by a positive inte
 
 # Keyboard
 
-The original Chip-8 keyboard layout is defined as hexadecimal keypad mapped to the keyboard as below:
+The original Chip-8 keyboard layout is defined as hexadecimal keypad mapped to the keyboard as shown below:
 
 |   |   |   |   |
 |---|---|---|---|
