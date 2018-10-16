@@ -1,6 +1,6 @@
 # Potato-8
 
-[![Build Status](https://travis-ci.com/gregei/Potato-8.svg?branch=master)](https://travis-ci.com/gregei/Potato-8)
+[![Build Status](https://travis-ci.org/gregei/Potato-8.svg?branch=master)](https://travis-ci.org/gregei/Potato-8)
 
 Potato-8 is a Chip-8 emulator written completely in native Java. It's a small exercise that shows how efficient and clean Java can be with advanced projects.
 
