@@ -3,14 +3,11 @@ package com.gregei.potato8.desktop;
 import com.gregei.potato8.core.Chip8;
 import com.gregei.potato8.desktop.views.MainView;
 
-import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
 
 public class Potato8Desktop {
     /**
