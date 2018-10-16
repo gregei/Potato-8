@@ -1,0 +1,4 @@
+rootProject.name = 'Potato-8'
+
+include 'core'
+include 'desktop'
