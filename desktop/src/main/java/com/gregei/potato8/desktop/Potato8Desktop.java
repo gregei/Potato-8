@@ -299,7 +299,6 @@ public class Potato8Desktop {
         if (scale == 0 || scale < 0){
             scale = 10;
         }
-
         Potato8Desktop desktop = new Potato8Desktop();
         desktop.romPath = args[0];
 
