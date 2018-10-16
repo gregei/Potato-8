@@ -55,3 +55,7 @@ The original Chip-8 keyboard layout is defined as hexadecimal keypad mapped to t
 ![Potato-8 running](docs/images/screenshot2.jpg)
 ![Potato-8 running](docs/images/screenshot3.jpg)
 ![Potato-8 running](docs/images/screenshot4.jpg)
+
+# Resources
+
+* [Thomas P. Greene's Cowgod Documentation](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
