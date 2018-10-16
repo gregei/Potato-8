@@ -11,7 +11,7 @@ Potato-8 can be build using gradle command:
 
     gradle desktop:build
     
-The build jar will be located in directory /desktop/build/libs/
+The built jar will be located in directory /desktop/build/libs/
 
 # Usage 
 Use:
