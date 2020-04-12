@@ -7,7 +7,7 @@ Potato-8 is a Chip-8 emulator written completely in native Java. It emulates cor
 ![Potato-8 running](docs/images/screenshot5.jpg)
 
 # Building
-Potato-8 can be build using gradle command: 
+Potato-8 can be build using the gradle command:
 
     gradle desktop:jar
     
