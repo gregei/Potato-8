@@ -4,7 +4,7 @@
 
 Potato-8 is a Chip-8 emulator written completely in native Java. It emulates core functions of the Chip-8 such as the instruction set and video.  It's a small exercise that shows how efficient and clean Java can be with advanced projects.
 
-![Potato-8 running](docs/images/screenshot5.jpg)
+![Potato-8 running](docs/images/screenshot1.png)
 
 # Building
 Potato-8 can be build using the gradle command:
@@ -53,7 +53,7 @@ The original Chip-8 keyboard layout is a hexadecimal keypad mapped to the keyboa
 
 # Screenshots
 
-![Potato-8 running](docs/images/screenshot1.png)
+![Potato-8 running](docs/images/screenshot5.jpg)
 ![Potato-8 running](docs/images/screenshot2.jpg)
 ![Potato-8 running](docs/images/screenshot3.jpg)
 ![Potato-8 running](docs/images/screenshot4.jpg)
