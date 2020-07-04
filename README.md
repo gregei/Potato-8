@@ -18,11 +18,11 @@ Use:
 
     java -jar potato8-desktop.jar ROM_PATH [OPTIONAL SCALE]
   
-The optional scale parameter is used to scale the window size by a positive integer since the default size of the Chip-8 is 64x32 which is pretty small so putting the integer 2 will scale the window size to 128(64 * 2)x64(32 * 2). The default scaling is 10(640x320).
+The optional scale parameter will be used to scale the window size by a positive integer since the default size of the Chip-8 is 64x32 which is pretty small so putting the integer 2 will scale the window size to 128(64 * 2)x64(32 * 2). The default scaling is 10(640x320).
 
 # Keyboard
 
-The original Chip-8 keyboard layout is defined as hexadecimal keypad mapped to the keyboard as shown below:
+The original Chip-8 keyboard layout is a hexadecimal keypad mapped to the keyboard as shown below:
 
 |   |   |   |   |
 |---|---|---|---|
@@ -53,7 +53,7 @@ The original Chip-8 keyboard layout is defined as hexadecimal keypad mapped to t
 
 # Screenshots
 
-![Potato-8 running](docs/images/screenshot1.jpg)
+![Potato-8 running](docs/images/screenshot1.png)
 ![Potato-8 running](docs/images/screenshot2.jpg)
 ![Potato-8 running](docs/images/screenshot3.jpg)
 ![Potato-8 running](docs/images/screenshot4.jpg)
