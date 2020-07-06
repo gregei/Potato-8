@@ -18,7 +18,7 @@ Use:
 
     java -jar potato8-desktop.jar ROM_PATH [OPTIONAL SCALE]
   
-The optional scale parameter will be used to scale the window size by a positive integer since the default size of the Chip-8 is 64x32 which is pretty small so putting the integer 2 will scale the window size to 128(64 * 2)x64(32 * 2). The default scaling is 10(640x320).
+The optional scale parameter will be used to scale the window size by an integer since the default size of the Chip-8 is 64x32 which is pretty small. The default scaling is 10 (640x320).
 
 # Keyboard
 
