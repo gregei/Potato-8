@@ -1,6 +1,6 @@
 # Potato-8
 
-[![Build Status](https://travis-ci.org/gregei/Potato-8.svg?branch=master)](https://travis-ci.org/gregei/Potato-8)
+[![Build Status](https://travis-ci.org/gregorygaines/Potato-8.svg?branch=master)](https://travis-ci.org/gregorygaines/Potato-8)
 
 Potato-8 is a chip-8 emulator written completely in native Java, built with Gradle. It emulates the core functions of the Chip-8, such as the instruction set and video. It's a small exercise that shows how efficient and clean Java can be with advanced projects.
 
